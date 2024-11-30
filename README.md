@@ -34,5 +34,8 @@ O sistema foi projetado para operar em diferentes cenários:
 - **Maior taxa de comunicação**: Otimiza o fluxo de dados.
 - **Maior alcance**: Garante comunicações em distâncias maiores.
 
+## O que foi utilizado
+
+Para o desenvovimento, foi utilizado um Arduino mega, que controla o funcionamento de um rádio nRF24L01 e realiza a amostragem dos canais. Para a DSP, foi utilizado um código em python executado em um computador, que está ligado a fisicamente ao Arduino.
 O **Projeto Integrado T3** representa um passo significativo no desenvolvimento de soluções inteligentes e eficientes para a gestão de espectro, alinhando-se às demandas tecnológicas do futuro das telecomunicações.
 
